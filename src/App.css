@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.bgImage{
+  background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url(../src/Image/Rectangle1.png);
+  background-image: cover;
+  height: 700px;
+}
 
 .App-logo {
   height: 40vmin;

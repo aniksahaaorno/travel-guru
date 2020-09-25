@@ -1,0 +1,14 @@
+nav a {
+    text-decoration: none;
+    margin: 50px;
+    color:white;
+}
+nav a img {
+    height:50px;
+}
+.color-btn{
+    background-color:orange;
+    color:black;
+    padding: 5px 15px;
+    border-radius:5px;
+}
